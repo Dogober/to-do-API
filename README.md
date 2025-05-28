@@ -32,8 +32,8 @@ This is a To-Do API project developed using Django and PostgreSQL. The project i
 
 1. **Clone the repository**:
 ```shell
-  git clone https://github.com/dissom/Train-Station-API-Service.git
-  cd train-station-api
+  git clone https://github.com/Dogober/to-do-API.git
+  cd to-do-API
 ```
 
 2. **Create a virtual environment**:
