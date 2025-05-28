@@ -10,6 +10,17 @@ This is a To-Do API project developed using Django and PostgreSQL. The project i
 - Task creation, retrieval, update, and deletion
 - Logging of API requests
 
+## Future Improvements
+
+### Enhancements
+- **Testing**: Implement unit and integration tests to ensure the reliability of the application. The goal is to achieve at least **80% test coverage** for all critical components of the project. This will help catch bugs early and improve the overall quality of the code.
+
+### Features to Consider
+- **User Profiles**: Expand user functionality by allowing users to manage their profiles.
+- **Task Reminders**: Implement a reminder feature for tasks based on due dates.
+- **Search Functionality**: Add search capabilities to filter tasks by various criteria.
+- **Front-End Integration**: Consider integrating a front-end framework for a more interactive user experience.
+
 ## Technologies Used
 
 - Django
@@ -119,3 +130,7 @@ SECRET_KEY=<secret_key>
 
   - **DELETE** `/api/todos/<id>/`
   - Deletes a specific to-do task by ID.
+
+### How to improve the App
+
+- Covered aproximality 
