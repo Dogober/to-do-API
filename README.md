@@ -130,7 +130,3 @@ SECRET_KEY=<secret_key>
 
   - **DELETE** `/api/todos/<id>/`
   - Deletes a specific to-do task by ID.
-
-### How to improve the App
-
-- Covered aproximality 
